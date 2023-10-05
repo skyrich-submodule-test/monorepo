@@ -1,3 +1,6 @@
 [submodule "service/service-a"]
 	path = service/service-a
 	url = https://github.com/skyrich-submodule-test/service-a
+[submodule "service/service-b"]
+	path = service/service-b
+	url = https://github.com/skyrich-submodule-test/service-b
